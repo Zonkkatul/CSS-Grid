@@ -39,19 +39,22 @@ html, body {
 
 
 .box3 { 
-	background-color: #DDDF00;  grid-column: span 2 / span 2;
+	background-color: #DDDF00;  
+	grid-column: span 2 / span 2;
     grid-row: span 2 / span 2;
     grid-column-start: 5;
     grid-row-start: 1; 
 }
 .box4 { 
-	background-color: #EEEF20;  grid-column: span 2 / span 2;
+	background-color: #EEEF20;  
+	grid-column: span 2 / span 2;
     grid-row: span 2 / span 2;
     grid-column-start: 5;
     grid-row-start: 3; 
 }
 .box5 { 
-	background-color: #FFFF3F;  grid-column: span 2 / span 2;
+	background-color: #FFFF3F;  
+	grid-column: span 2 / span 2;
     grid-row: span 2 / span 2;
     grid-column-start: 5;
     grid-row-start: 5; 
@@ -66,7 +69,8 @@ html, body {
 }
 
 .box7 { 
-	background-color: #55A630;  grid-column: span 2 / span 2;
+	background-color: #55A630;  
+	grid-column: span 2 / span 2;
     grid-row: span 4 / span 4;
     grid-column-start: 1;
     grid-row-start: 7; 
@@ -81,18 +85,21 @@ html, body {
 
 
 .box9 { 
-	background-color: #BFD200;   grid-row: span 2 / span 2;
+	background-color: #BFD200;   
+	grid-row: span 2 / span 2;
     grid-column-start: 3;
     grid-row-start: 9; 
 }
 .box10 { 
-	background-color: #D4D700; grid-column: span 2 / span 2;
+	background-color: #D4D700; 
+	grid-column: span 2 / span 2;
     grid-row: span 4 / span 4;
     grid-column-start: 4;
     grid-row-start: 7; 
 } 
 .box11 { 
-	background-color: #007F5F;   grid-row: span 4 / span 4;
+	background-color: #007F5F;   
+	grid-row: span 4 / span 4;
     grid-column-start: 6;
     grid-row-start: 7; 
 } 
